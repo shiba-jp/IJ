@@ -1,3 +1,6 @@
+new
+cls:'
+
 100 '*CHARA MAP
 110 CLS
 120 FOR I=0 TO 255
