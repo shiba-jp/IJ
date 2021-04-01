@@ -1,0 +1,7 @@
+
+cls:'
+' Utility Menu
+'
+' [0] Character map
+'
+inputA:?"MJ GETS shiba-jp.github.io/IJ/MP/U/";A;".txt"

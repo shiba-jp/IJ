@@ -2,6 +2,7 @@
 cls:'
 ' Menu
 '
-' [0] Character map
+' [0] UTILITY
+' [1] GAME
 '
-inputA:?"MJ GETS shiba-jp.github.io/IJ/MP/U/";A;".txt"
+inputA:?"MJ GETS shiba-jp.github.io/IJ/MP/";A;".txt"
