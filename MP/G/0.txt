@@ -1,6 +1,6 @@
 
 new
-cls:'
+cls
 
 1 '*SHOOTING
 100 CLS:CLV
