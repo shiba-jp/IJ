@@ -1,5 +1,5 @@
 
-cls:'
+cls
 ' Utility Menu
 '
 ' [0] Character map

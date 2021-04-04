@@ -1,5 +1,5 @@
 
-cls:'
+cls
 ' Menu
 '
 ' [0] UTILITY

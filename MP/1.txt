@@ -1,8 +1,9 @@
 
-cls:'
+cls
 ' Game Menu
 '
 ' [0] Shooting Poke
 ' [1] Shooting
+' [2] KuKu Master
 '
 inputA:?"MJ GETS shiba-jp.github.io/IJ/MP/G/";A;".txt"

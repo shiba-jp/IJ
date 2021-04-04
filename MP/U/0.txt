@@ -1,6 +1,6 @@
 
 new
-cls:'
+cls
 
 100 '*CHARA MAP
 110 CLS

@@ -1,0 +1,25 @@
+new
+cls
+
+100 '*KUKU MASTER
+110 CLS:CLV:CLT
+120 ?"[1]ﾀﾞﾝ ｦ ｼﾃｲｽﾙ"
+130 ?"[2]ﾗﾝﾀﾞﾑ"
+140 INPUT "ﾄﾞｯﾁﾆｽﾙ?",Z
+150 IF Z<1||Z>2 GOTO 110
+160 IF Z=1 THEN INPUT "ﾀﾞﾝ:",D
+170 FOR I=3 TO 1 STEP -1
+180  ?I;" ";:WAIT 60
+190 NEXT
+200 ?"START!":?
+210 FOR I=0 TO 9
+220  N=RND(9)+1
+230  IF Z=2 D=RND(9)+1
+240  LC 0,POS(2):?D;"x";N;
+250  INPUT "=", A
+260  IF A=D*N ?"ｾｲｶｲ!":S=S+1 ELSE ?"ﾀﾞﾒｰ!"
+270  ?
+280 NEXT
+290 ?"ｾｲｶｲｽｳ:";S
+300 ?"ﾌｾｲｶｲｽｳ:";10-S
+310 ?"ｹｲｻﾝｼﾞｶﾝ:";TICK()/60;"ﾋﾞｮｳ"
