@@ -3,5 +3,6 @@ cls
 ' Utility Menu
 '
 ' [0] Character map
+' [1] DICE
 '
 inputA:?"MJ GETS shiba-jp.github.io/IJ/MP/U/";A;".txt"
