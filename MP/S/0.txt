@@ -1,9 +1,11 @@
 CLS
-1 ?"コノ コンピューター ハ ウイルスニ カンセンシマシタ システムハハカイサレマス"
-2 ?"3..";:WAIT60:?"2..";:WAIT60:?"1":WAIT60:CLS
-3 ?"Good Bye."
-4 BEEP 10, 40
-5 WAIT180
-6 CLS
+10 BEEP 10, 40:
+20 ?"This computer has been infected with a virus."
+30 ?"The system will be destroyed."
+40 ?"3..";:WAIT60:?"2..";:WAIT60:?"1":WAIT60:CLS
+50 ?"Good Bye."
+60 BEEP 10, 40
+70 WAIT180
+80 CLS
 
 RUN
