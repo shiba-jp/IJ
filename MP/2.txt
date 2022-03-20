@@ -1,0 +1,7 @@
+
+cls
+' Security Menu
+'
+' [0] Virus Test
+'
+inputA:?"MJ GETS shiba-jp.github.io/IJ/MP/S/";A;".txt"

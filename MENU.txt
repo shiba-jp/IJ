@@ -4,5 +4,6 @@ cls
 '
 ' [0] UTILITY
 ' [1] GAME
+' [2] SECURITY
 '
 inputA:?"MJ GETS shiba-jp.github.io/IJ/MP/";A;".txt"
